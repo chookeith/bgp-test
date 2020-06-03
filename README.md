@@ -2,7 +2,9 @@
 
 >
 Test runs on Python 3.7 Robot Framework
-###How to deploy test
+
+How to deploy test
+
 >
 We can use pip and virtualenv to handle dependencies. Dependencies are saved in requirementes.txt
 >
@@ -24,7 +26,8 @@ Steps
 >
 >deactivate 
 
-###How to run
+How to run
+>
 Steps
 1. Run run-tests.bat
 2. The bat file will startup the virtual environment and run the test. Results will be saved in Results folder
